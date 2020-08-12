@@ -3,6 +3,8 @@ I have provided my approach to solving CodeWars problems here to help others thr
 
 Here's my CodeWars Profile: https://www.codewars.com/users/RedaBELHAJ
 
+My current codewars rank:
+
 <img src = "https://www.codewars.com/users/RedaBELHAJ/badges/small" />
 
 <br>
