@@ -55,6 +55,7 @@ Requirements
 You can assume you will be given an integer input. <br/>
 You can not assume that the integer will be only positive. You may be given negative numbers as well (or 0). <br/>
 NOTE on performance: There are no fancy optimizations required, but still the most trivial solutions might time out. Numbers go up to 2^31 (or similar, depends on language version). Looping all the way up to n, or n/2, will be too slow. <br/>
+
 Example
 
 is_prime(1)  /* false */ <br/>
@@ -68,8 +69,8 @@ Write an algorithm that will identify valid IPv4 addresses in dot-decimal format
 
 Input to the function is guaranteed to be a single string.
 
-Examples
-Valid inputs:
+Examples:
+  *Valid inputs:
 
 1.2.3.4
 123.45.67.89
