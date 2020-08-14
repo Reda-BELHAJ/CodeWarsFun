@@ -121,3 +121,15 @@ Write a function that will return the count of distinct case-insensitive alphabe
 "Indivisibilities" -> 2 # `i` occurs seven times and `s` occurs twice <br/>
 "aA11" -> 2 # `a` and `1` <br/>
 "ABBA" -> 2 # `A` and `B` each occur twice <br/>
+
+<br>
+
+# Descending Order
+Your task is to make a function that can take any non-negative integer as a argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
+
+#### Examples:
+Input: 42145 Output: 54421
+
+Input: 145263 Output: 654321
+
+Input: 123456789 Output: 987654321
