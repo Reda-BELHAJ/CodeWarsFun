@@ -5,7 +5,7 @@ Here's my CodeWars Profile: https://www.codewars.com/users/RedaBELHAJ
 
 My current codewars rank:
 
-<center><img src = "https://www.codewars.com/users/RedaBELHAJ/badges/small" /></center>>
+<center><img src = "https://www.codewars.com/users/RedaBELHAJ/badges/small" /> </center>
 
 <br>
 
