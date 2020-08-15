@@ -133,3 +133,17 @@ Input: 42145 Output: 54421
 Input: 145263 Output: 654321
 
 Input: 123456789 Output: 987654321
+
+<br>
+
+# +1 Array
+Given an array of integers of any length, return an array that has 1 added to the value represented by the array.
+
+the array can't be empty
+only non-negative, single digit integers are allowed
+Return nil (or your language's equivalent) for invalid inputs.
+
+#### Examples
+For example the array [2, 3, 9] equals 239, adding one would return the array [2, 4, 0].
+
+[4, 3, 2, 5] would return [4, 3, 2, 6]
