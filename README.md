@@ -217,5 +217,3 @@ Result:
 ['E.Honda', 'Chun Li', 'Ken', 'M.Bison', 'Sagat', 'Dhalsim', 'Sagat']
 OFF-TOPIC
 
-Some music to get in the mood for this kata :
-
